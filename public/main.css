@@ -1,0 +1,47 @@
+.container{
+    display:flex;
+    justify-content: center;
+    align-items:flex-start;
+    flex-direction: column;
+    margin-left: 40em;
+    width:20em;
+}
+
+.names{
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+hr{
+    height: 1px;
+    background-color: #ccc;
+    border: none;
+    width:25em;
+}
+
+.input{
+    width:40em;
+    margin-bottom: 1em;
+    margin-top: -1em;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lessons {
+    font-family: Courier, monospace;
+    font-size: large;
+    cursor: pointer;
+    padding-top: 1.5em;
+}
+
+.fas{
+    color:yellow;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+.fa-star:hover{
+    cursor: pointer;
+}
