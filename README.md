@@ -4,7 +4,7 @@
 ## Search your favorite pokemon and login, and enroll/unenroll in classes using React on the front end and GraphQL,node and express on the back end. 
 
 
-## Link to the live project: https://apollopoke.raghid.xyz/
+## Link to the live project: https://pokeappolloapp.freedomains.dev/
 
 
 # Do you want to edit/contribute? 
